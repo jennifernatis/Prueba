@@ -35,8 +35,16 @@ public class Prueba {
 //		let cantidad3=true
 //		cantidad2 = false
 //		
+		// que son los operadores booleanos  en java 
+		
 		
 		System.out.println("Mi primera prueba de git solita");
+		
+		
+		// tarea: que es una rama en git y hacer una rama que se llame cosasjenny 
+		
+		
+		
 		
 		
 		
