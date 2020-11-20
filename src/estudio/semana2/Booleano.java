@@ -10,7 +10,7 @@ public class Booleano {
 
 		Boolean lave_platos = true;
 		Boolean trapie_piso = true;
-		Boolean limpiar_arenera = null;
+//		Boolean limpiar_arenera = null;
 
 		// Null asigna un valor que no genere errores en operaciones antes de asignar un
 		// valor valido
